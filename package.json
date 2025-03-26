@@ -1,0 +1,48 @@
+{
+  "name": "wangostudios",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject",
+    "lint": "eslint . --fix"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Alex-G-Wangondu/WangoStudios.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "bugs": {
+    "url": "https://github.com/Alex-G-Wangondu/WangoStudios/issues"
+  },
+  "homepage": "https://github.com/Alex-G-Wangondu/WangoStudios#readme",
+  "dependencies": {
+    "react": "^19.0.0",
+    "react-dom": "^19.0.0",
+    "react-router-dom": "^7.4.0",
+    "react-scripts": "^5.0.1",
+    "react-scroll": "^1.9.3"
+  },
+  "devDependencies": {
+    "@types/react": "^19.0.12",
+    "babel-loader": "^10.0.0",
+    "webpack": "^5.98.0"
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  }
+}
